@@ -1,0 +1,22 @@
+{
+  "name": "modernjs",
+  "version": "1.0.0",
+  "description": "A project for Safari Modern JS course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plasmadrive/modernjs.git"
+  },
+  "author": "plasmadrive",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plasmadrive/modernjs/issues"
+  },
+  "homepage": "https://github.com/plasmadrive/modernjs#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
