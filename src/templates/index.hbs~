@@ -9,9 +9,7 @@
   </head>
   <body>
   <!-- PLACE ALL OF YOUR PAGE CONTENT BELOW HERE -->
-  <h1>MARS BBQ</h1>
-
-  <p> Join us for the first intergalactic BBQ</p>
+  <h1>ModernJS</h1>
 
   <!-- AND ABOVE HERE -->
   <script src="node_modules/jquery/dist/jquery.js"></script>
